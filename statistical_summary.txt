@@ -1,0 +1,31 @@
+STATISTICAL ANALYSIS SUMMARY
+==================================================
+
+SAMPLE CHARACTERISTICS
+------------------------------
+Total Posts Analyzed: 10,847
+FKR Group: 5,423
+AFKR Group: 5,424
+
+PRIMARY FINDING: ESTIMATED IQ
+------------------------------
+FKR Mean IQ: 102.83 (95% CI: [np.float64(102.48), np.float64(103.19)])
+AFKR Mean IQ: 90.03 (95% CI: [np.float64(89.63), np.float64(90.44)])
+Difference: 12.8 points
+Effect Size (Cohen's d): 0.894
+Statistical Significance: p < 0.001
+
+EFFECT SIZES FOR ALL METRICS
+------------------------------
+estimated_iq: d = 0.894 (large)
+flesch_kincaid_gl: d = 0.728 (medium)
+abstract_reasoning: d = 0.739 (medium)
+logical_coherence: d = 0.809 (large)
+word_count: d = 0.697 (medium)
+grammar_errors_per_100: d = -0.77 (medium)
+
+STATISTICAL ROBUSTNESS
+------------------------------
+All comparisons significant at p < 0.001
+Results confirmed with non-parametric tests (Mann-Whitney U)
+Statistical Power: > 0.999
