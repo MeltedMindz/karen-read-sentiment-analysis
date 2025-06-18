@@ -145,4 +145,3 @@ Anonymized data will be made available through the Harvard Dataverse upon public
 
 ---
 
-*For questions regarding methodology or replication, contact: methodology@social-media-analysis.institute*

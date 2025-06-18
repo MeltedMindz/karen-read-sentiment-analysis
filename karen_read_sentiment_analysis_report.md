@@ -107,8 +107,6 @@ This analysis reveals significant cognitive disparities in how different populat
 
 ---
 
-*Corresponding Author*: Dr. Michael Harrison, Department of Computational Psychology, Institute for Advanced Social Media Studies
-
-*Data Availability*: Anonymized dataset available upon request at [dataset-repository-link]
+*Data Availability*: Anonymized dataset included in this repository
 
 *Ethical Statement*: This study was approved by the Institutional Review Board (IRB #2023-847). All data was collected from public posts with user identities anonymized.

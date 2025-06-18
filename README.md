@@ -143,10 +143,6 @@ python statistical_analysis.py
 - No attempts to identify individuals
 - Results should not be used for discrimination
 
-## Contact
-
-For questions about methodology or data access: methodology@social-media-analysis.institute
-
 ---
 
 **Note**: This research demonstrates how cognitive ability influences interpretation of complex legal cases on social media. The 12.6-point IQ differential represents one of the largest documented cognitive gaps in opinion polarization research.
