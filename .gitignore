@@ -30,3 +30,8 @@ Thumbs.db
 *.tmp
 *.bak
 ~*
+
+# Twitter thread files
+twitter_thread.md
+twitter_thread_visual_guide.md
+check_tweet_length.py
